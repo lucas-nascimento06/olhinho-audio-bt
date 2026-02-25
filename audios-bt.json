@@ -1,0 +1,451 @@
+{
+  "audios": [
+    {
+      "id": "audio_olhinho_1",
+      "nome": "Audio Olhinho 1",
+      "descricao": "Primeiro áudio quando alguém coloca reação de olhinho",
+      "arquivo": "audio_1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_1.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_2",
+      "nome": "Audio Olhinho 2",
+      "descricao": "Segundo áudio para rotação",
+      "arquivo": "audio_2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_2.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_3",
+      "nome": "Audio Olhinho 3",
+      "descricao": "Terceiro áudio para rotação",
+      "arquivo": "audio_3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_3.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_4",
+      "nome": "Audio Olhinho 4",
+      "descricao": "Quarto áudio para rotação",
+      "arquivo": "audio_4.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_4.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_5",
+      "nome": "Audio Olhinho 5",
+      "descricao": "Quinto áudio para rotação",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_5.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_6",
+      "nome": "Audio Olhinho 6",
+      "descricao": "Sexto áudio para rotação",
+      "arquivo": "audio_6.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_6.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_7",
+      "nome": "Audio Olhinho 7",
+      "descricao": "Sétimo áudio para rotação",
+      "arquivo": "audio_7.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_7.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_8",
+      "nome": "Audio Olhinho 8",
+      "descricao": "Oitavo áudio para rotação",
+      "arquivo": "audio_8.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_8.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_9",
+      "nome": "Audio Olhinho 9",
+      "descricao": "Nono áudio para rotação",
+      "arquivo": "audio_9.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_9.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_10",
+      "nome": "Audio Olhinho 10",
+      "descricao": "Décimo áudio para rotação",
+      "arquivo": "audio_10.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_10.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_11",
+      "nome": "Audio Olhinho 11",
+      "descricao": "Décimo primeiro áudio para rotação",
+      "arquivo": "audio_11.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_11.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_12",
+      "nome": "Audio Olhinho 12",
+      "descricao": "Décimo segundo áudio para rotação",
+      "arquivo": "audio_12.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_12.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_13",
+      "nome": "Audio Olhinho 13",
+      "descricao": "Décimo terceiro áudio para rotação",
+      "arquivo": "audio_13.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_13.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_14",
+      "nome": "Audio Olhinho 14",
+      "descricao": "Décimo quarto áudio para rotação",
+      "arquivo": "audio_14.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_14.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_15",
+      "nome": "Audio Olhinho 15",
+      "descricao": "Décimo quinto áudio para rotação",
+      "arquivo": "audio_15.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_15.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_16",
+      "nome": "Audio Olhinho 16",
+      "descricao": "Décimo sexto áudio para rotação",
+      "arquivo": "audio_16.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_16.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_17",
+      "nome": "Audio Olhinho 17",
+      "descricao": "Décimo sétimo áudio para rotação",
+      "arquivo": "audio_17.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_17.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_18",
+      "nome": "Audio Olhinho 18",
+      "descricao": "Décimo oitavo áudio para rotação",
+      "arquivo": "audio_18.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_18.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_19",
+      "nome": "Audio Olhinho 19",
+      "descricao": "Décimo nono áudio para rotação",
+      "arquivo": "audio_19.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_19.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_20",
+      "nome": "Audio Olhinho 20",
+      "descricao": "Vigésimo áudio para rotação",
+      "arquivo": "audio_20.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_20.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_21",
+      "nome": "Audio Olhinho 21",
+      "descricao": "Vigésimo primeiro áudio para rotação",
+      "arquivo": "audio_21.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_21.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_22",
+      "nome": "Audio Olhinho 22",
+      "descricao": "Vigésimo segundo áudio para rotação",
+      "arquivo": "audio_22.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_22.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_23",
+      "nome": "Audio Olhinho 23",
+      "descricao": "Vigésimo terceiro áudio para rotação",
+      "arquivo": "audio_23.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_23.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_24",
+      "nome": "Audio Olhinho 24",
+      "descricao": "Vigésimo quarto áudio para rotação",
+      "arquivo": "audio_24.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_24.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_25",
+      "nome": "Audio Olhinho 25",
+      "descricao": "Vigésimo quinto áudio para rotação",
+      "arquivo": "audio_25.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_25.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_26",
+      "nome": "Audio Olhinho 26",
+      "descricao": "Vigésimo sexto áudio para rotação",
+      "arquivo": "audio_26.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_26.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_27",
+      "nome": "Audio Olhinho 27",
+      "descricao": "Vigésimo sétimo áudio para rotação",
+      "arquivo": "audio_27.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_27.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_28",
+      "nome": "Audio Olhinho 28",
+      "descricao": "Vigésimo oitavo áudio para rotação",
+      "arquivo": "audio_28.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_28.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_29",
+      "nome": "Audio Olhinho 29",
+      "descricao": "Vigésimo nono áudio para rotação",
+      "arquivo": "audio_29.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_29.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_30",
+      "nome": "Audio Olhinho 30",
+      "descricao": "Trigésimo áudio para rotação",
+      "arquivo": "audio_30.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_30.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_31",
+      "nome": "Audio Olhinho 31",
+      "descricao": "Trigésimo primeiro áudio para rotação",
+      "arquivo": "audio_31.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_31.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_32",
+      "nome": "Audio Olhinho 32",
+      "descricao": "Trigésimo segundo áudio para rotação",
+      "arquivo": "audio_32.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_32.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_33",
+      "nome": "Audio Olhinho 33",
+      "descricao": "Trigésimo terceiro áudio para rotação",
+      "arquivo": "audio_33.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_33.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_34",
+      "nome": "Audio Olhinho 34",
+      "descricao": "Trigésimo quarto áudio para rotação",
+      "arquivo": "audio_34.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_34.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_35",
+      "nome": "Audio Olhinho 35",
+      "descricao": "Trigésimo quinto áudio para rotação",
+      "arquivo": "audio_35.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_35.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_36",
+      "nome": "Audio Olhinho 36",
+      "descricao": "Trigésimo sexto áudio para rotação",
+      "arquivo": "audio_36.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_36.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_37",
+      "nome": "Audio Olhinho 37",
+      "descricao": "Trigésimo sétimo áudio para rotação",
+      "arquivo": "audio_37.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_37.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_38",
+      "nome": "Audio Olhinho 38",
+      "descricao": "Trigésimo oitavo áudio para rotação",
+      "arquivo": "audio_38.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_38.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_39",
+      "nome": "Audio Olhinho 39",
+      "descricao": "Trigésimo nono áudio para rotação",
+      "arquivo": "audio_39.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_39.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_40",
+      "nome": "Audio Olhinho 40",
+      "descricao": "Quadragésimo áudio para rotação",
+      "arquivo": "audio_40.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_40.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_41",
+      "nome": "Audio Olhinho 41",
+      "descricao": "Quadragésimo primeiro áudio para rotação",
+      "arquivo": "audio_41.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_41.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_42",
+      "nome": "Audio Olhinho 42",
+      "descricao": "Quadragésimo segundo áudio para rotação",
+      "arquivo": "audio_42.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_42.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_43",
+      "nome": "Audio Olhinho 43",
+      "descricao": "Quadragésimo terceiro áudio para rotação",
+      "arquivo": "audio_43.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_43.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_44",
+      "nome": "Audio Olhinho 44",
+      "descricao": "Quadragésimo quarto áudio para rotação",
+      "arquivo": "audio_44.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/olhinho-audio-bt/main/audio_44.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    }
+  ],
+  "configuracoes": {
+    "versao": "2.0",
+    "ultima_atualizacao": "2024-12-31",
+    "total_audios": 44,
+    "repositorio": "https://github.com/LucasNascimento25/olhinho-audio-bt",
+    "descricao": "Configuração de áudios do bot WhatsApp - Sistema de rotação implementado com 44 áudios"
+  }
+}
